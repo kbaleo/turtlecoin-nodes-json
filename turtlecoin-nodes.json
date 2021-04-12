@@ -8,6 +8,13 @@
       "cache": false
     },
     {
+      "name":"Baleo",
+      "url": "turtle.hopto.org',
+      "port": 11898;
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Adam",
       "url": "175.34.176.60",
       "port": 11898,
